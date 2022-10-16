@@ -17,7 +17,7 @@ const Whoweare = () => {
               ease: "easeIn",
               duration: 1,
             }}
-            className="text-3xl font-extrabold text-[#434343]"
+            className="text-3xl font-extrabold bg-clip-text text-transparent bg-gradient-to-t from-[#004165] via-[#772432] to-[#772432]"
           >
             Who We Are
           </motion.h2>

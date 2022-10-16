@@ -18,7 +18,7 @@ const Whatwedo = () => {
           ease: "easeIn",
           duration: 1,
         }}
-        className="font-bold font-bodyFont text-center text-transparent text-4xl bg-clip-text bg-gradient-to-t from-[#004165] via-[#772432] to-[#772432] "
+        className="font-bold font-bodyFont text-center text-transparent text-4xl bg-clip-text bg-gradient-to-t from-[#004165] via-[#772432] to-[#772432]"
       >
         Who We Do
       </motion.h2>

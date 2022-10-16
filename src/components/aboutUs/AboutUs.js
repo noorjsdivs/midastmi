@@ -17,7 +17,7 @@ const AboutUs = () => {
             ease: "easeIn",
             duration: 1,
           }}
-          className="w-full h-[400px] lg:h-[600px] object-cover rounded-md lg:rounded-none lg:rounded-r-3xl"
+          className="w-full h-[400px] lg:h-[500px] object-cover rounded-md lg:rounded-none lg:rounded-r-3xl"
           src={primeFactsImg}
           alt="primeFactsImg"
         />
@@ -34,7 +34,7 @@ const AboutUs = () => {
               ease: "easeIn",
               duration: 1,
             }}
-            className="text-2xl md:text-3xl lg:text-2xl xl:text-3xl font-extrabold text-[#434343]"
+            className="text-3xl font-extrabold bg-clip-text text-transparent bg-gradient-to-t from-[#004165] via-[#772432] to-[#772432]"
           >
             Some Facts About Us
           </motion.h3>
