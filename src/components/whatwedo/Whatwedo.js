@@ -1,6 +1,9 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { FiGlobe, FiSend, FiSearch, FiPenTool } from "react-icons/fi";
+import { FiGlobe } from "react-icons/fi";
+import { FaChalkboardTeacher } from "react-icons/fa";
+import { BsMegaphone } from "react-icons/bs";
+import { HiUserGroup } from "react-icons/hi";
 
 const Whatwedo = () => {
   return (
@@ -46,7 +49,7 @@ const Whatwedo = () => {
             }}
             className="text-xl font-titleFont font-semibold text-[#004165] group-hover:text-[#772432]"
           >
-            Web Designing
+            Personal Development
           </motion.h3>
           <motion.p
             initial={{ y: 100, opacity: 0 }}
@@ -60,10 +63,10 @@ const Whatwedo = () => {
             }}
             className="text-base text-justify text-[#434343]"
           >
-            When there is a huge requirement to entice clients and customers
-            from different parts of the globe to ensure smooth functioning and
-            sustain the growth of your company, there is a great need of having
-            a business website...
+            Lorem ipsum dolor sit constur, adipisicing elitment. Repellendus
+            reiciendis placeat ipsam veritatis est modi dolorem odio eum ad
+            adipisci amet iure eos, quisquam nesciunt voltibus exercitationem
+            quidem mollitia fugit.
           </motion.p>
         </motion.div>
         <div className="flex flex-col gap-3 px-6 py-8 hover:shadow-2xl cursor-pointer hover:scale-110 transition ease-in-out duration-500 rounded-xl group">
@@ -78,7 +81,7 @@ const Whatwedo = () => {
               duration: 1,
             }}
           >
-            <FiSend className="text-[50px] text-[#772432] group-hover:text-[#004165]" />
+            <FaChalkboardTeacher className="text-[50px] text-[#772432] group-hover:text-[#004165]" />
           </motion.p>
           <motion.h3
             initial={{ y: 100, opacity: 0 }}
@@ -92,7 +95,7 @@ const Whatwedo = () => {
             }}
             className="text-xl font-titleFont font-semibold text-[#004165] group-hover:text-[#772432]"
           >
-            Web Designing
+            Mentorship
           </motion.h3>
           <motion.p
             initial={{ y: 100, opacity: 0 }}
@@ -106,10 +109,10 @@ const Whatwedo = () => {
             }}
             className="text-base text-justify text-[#434343]"
           >
-            When there is a huge requirement to entice clients and customers
-            from different parts of the globe to ensure smooth functioning and
-            sustain the growth of your company, there is a great need of having
-            a business website...
+            Lorem ipsum dolor sit constur, adipisicing elitment. Repellendus
+            reiciendis placeat ipsam veritatis est modi dolorem odio eum ad
+            adipisci amet iure eos, quisquam nesciunt voltibus exercitationem
+            quidem mollitia fugit.
           </motion.p>
         </div>
         <div className="flex flex-col gap-3 px-6 py-8 hover:shadow-2xl cursor-pointer hover:scale-110 transition ease-in-out duration-500 rounded-xl group">
@@ -124,7 +127,7 @@ const Whatwedo = () => {
               duration: 1,
             }}
           >
-            <FiSearch className="text-[50px] text-[#772432] group-hover:text-[#004165]" />
+            <BsMegaphone className="text-[50px] text-[#772432] group-hover:text-[#004165]" />
           </motion.p>
           <motion.h3
             initial={{ y: 100, opacity: 0 }}
@@ -138,7 +141,7 @@ const Whatwedo = () => {
             }}
             className="text-xl font-titleFont font-semibold text-[#004165] group-hover:text-[#772432]"
           >
-            Web Designing
+            Social Networking
           </motion.h3>
           <motion.p
             initial={{ y: 100, opacity: 0 }}
@@ -152,10 +155,10 @@ const Whatwedo = () => {
             }}
             className="text-base text-justify text-[#434343]"
           >
-            When there is a huge requirement to entice clients and customers
-            from different parts of the globe to ensure smooth functioning and
-            sustain the growth of your company, there is a great need of having
-            a business website...
+            Lorem ipsum dolor sit constur, adipisicing elitment. Repellendus
+            reiciendis placeat ipsam veritatis est modi dolorem odio eum ad
+            adipisci amet iure eos, quisquam nesciunt voltibus exercitationem
+            quidem mollitia fugit.
           </motion.p>
         </div>
         <div className="flex flex-col gap-3 px-6 py-8 hover:shadow-2xl cursor-pointer hover:scale-110 transition ease-in-out duration-500 rounded-xl group">
@@ -170,7 +173,7 @@ const Whatwedo = () => {
               duration: 1,
             }}
           >
-            <FiPenTool className="text-[50px] text-[#772432] group-hover:text-[#004165]" />
+            <HiUserGroup className="text-[50px] text-[#772432] group-hover:text-[#004165]" />
           </motion.p>
           <motion.h3
             initial={{ y: 100, opacity: 0 }}
@@ -184,7 +187,7 @@ const Whatwedo = () => {
             }}
             className="text-xl font-titleFont font-semibold text-[#004165] group-hover:text-[#772432]"
           >
-            Web Designing
+            Team Collaboration
           </motion.h3>
           <motion.p
             initial={{ y: 100, opacity: 0 }}
@@ -198,10 +201,10 @@ const Whatwedo = () => {
             }}
             className="text-base text-justify text-[#434343]"
           >
-            When there is a huge requirement to entice clients and customers
-            from different parts of the globe to ensure smooth functioning and
-            sustain the growth of your company, there is a great need of having
-            a business website...
+            Lorem ipsum dolor sit constur, adipisicing elitment. Repellendus
+            reiciendis placeat ipsam veritatis est modi dolorem odio eum ad
+            adipisci amet iure eos, quisquam nesciunt voltibus exercitationem
+            quidem mollitia fugit.
           </motion.p>
         </div>
       </div>

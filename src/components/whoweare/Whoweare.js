@@ -33,9 +33,10 @@ const Whoweare = () => {
             }}
             className="text-[#434343] text-base leading-7"
           >
-            PINKY BELL is a web designing company based in Oman and we give
-            immense importance to the User Interface and User Experience while
-            creating websites and host them on the most reliable servers.
+            Midas Toastmaster Club is Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Nulla iusto vero possimus eius velit, explicabo
+            cupiditate aliquam consequuntur at illum. Lorem ipsum dolor sit amet
+            lorem consequer.
           </motion.p>
           <motion.div
             initial={{ x: -100, opacity: 0 }}
@@ -65,10 +66,10 @@ const Whoweare = () => {
             className="smallCard1"
           >
             <p className="font-bold text-transparent text-4xl bg-clip-text bg-gradient-to-r from-[#004165] via-[#772432] to-[#772432] leading-8 mb-2">
-              14+ <br />
+              20+ <br />
             </p>
             <p className="font-bodyFont text-transparent text-xl font-medium uppercase bg-clip-text bg-gradient-to-r from-[#004165] via-[#772432] to-[#772432] leading-6">
-              years of <br /> experience
+              chartered <br /> members
             </p>
           </motion.div>
           <motion.div
@@ -84,11 +85,11 @@ const Whoweare = () => {
             className="smallCard2"
           >
             <p className="font-bold text-transparent text-4xl bg-clip-text bg-gradient-to-r from-[#004165] via-[#772432] to-[#772432] leading-8 mb-2">
-              550+ <br />
+              2+ <br />
             </p>
             <p className="font-bodyFont text-transparent text-xl font-medium uppercase bg-clip-text bg-gradient-to-r from-[#004165] via-[#772432] to-[#772432] leading-6">
-              successful
-              <br /> projects
+              Years of
+              <br /> Commitement
             </p>
           </motion.div>
           <motion.div
@@ -104,11 +105,11 @@ const Whoweare = () => {
             className="smallCard3"
           >
             <p className="font-bold text-transparent text-4xl bg-clip-text bg-gradient-to-r from-[#004165] via-[#772432] to-[#772432] leading-8 mb-2">
-              450+ <br />
+              5+ <br />
             </p>
             <p className="font-bodyFont text-transparent text-xl font-medium uppercase bg-clip-text bg-gradient-to-r from-[#004165] via-[#772432] to-[#772432] leading-6">
-              happy
-              <br /> clients
+              times divison
+              <br /> winners
             </p>
           </motion.div>
         </div>

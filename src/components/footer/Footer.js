@@ -133,7 +133,18 @@ const Footer = () => {
       <div className="max-w-screen-xl mx-auto flex flex-col xl:flex-row gap-2 justify-between items-center">
         <div>
           <p className="font-bodyFont text-sm">
-            © 2022 noormohammad.live All rights reserved.
+            © 2022{" "}
+            <a
+              href="https://noormohammad.live/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              {" "}
+              <span className="font-semibold text-[#004165] hover:text-[#772432] transition-hover duration-300 cursor-pointer">
+                noormohammad.live
+              </span>{" "}
+            </a>
+            All rights reserved.
           </p>
         </div>
         <div>

@@ -14,7 +14,7 @@ import {
 const Banner = () => {
   return (
     <div>
-      <div className="max-w-screen-xl h-auto mx-auto px-6 mt-16 flex flex-col mdl:flex-row justify-between items-center">
+      <div className="max-w-screen-xl h-auto mx-auto px-6 py-24 flex flex-col mdl:flex-row mt-10 justify-between gap-16 items-center">
         <div className="w-full md:w-1/2">
           <motion.img
             initial={{ x: -100, opacity: 0 }}
@@ -27,7 +27,7 @@ const Banner = () => {
               ease: "easeIn",
               duration: 1,
             }}
-            className="w-11/12 h-auto object-contain rounded-md"
+            className="w-full h-full object-contain rounded-md"
             src={primeBannerImg}
             alt="primeBannerImg"
           />
